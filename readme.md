@@ -1,4 +1,10 @@
-# This is my Readme
-### I initialized a GIt
-
-* I did not need to go to a class to learn This
+Adding line1
+Adding line 2
+Adding line 3
+Adding line 4
+Adding line 5
+Adding line 6
+Adding line 7
+Adding line 8
+Adding line 9
+Adding line 10
